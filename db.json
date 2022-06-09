@@ -1,0 +1,30 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "posts title",
+      "authors": "posts author"
+    },
+    {
+      "id": 2,
+      "title": "posts title 2",
+      "authors": "posts author 2"
+    },
+    {
+      "id": 3,
+      "title": "posts title 3",
+      "authors": [
+        "posts author 3 first",
+        "posts author 3 second"
+      ]
+    },
+    {
+      "title": "new title",
+      "authors": [
+        "ed",
+        " somebody"
+      ],
+      "id": 4
+    }
+  ]
+}
